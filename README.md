@@ -7,9 +7,9 @@ This repository contains a Golang application that implements a RESTful API usin
 ### Table of Contents
 
 - [Requirements](#requirements)
-- [Setup]
-- [Gin Server]
-- [Database Operations]
+- [Setup](#requirements)
+- [Gin Server](#requirements)
+- [Database Operations](#requirements)
 
 ---
 
