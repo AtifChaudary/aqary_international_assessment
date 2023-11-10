@@ -1,6 +1,6 @@
 # README.md
 
-# Aqary International Group Assessment
+## Aqary International Group Assessment
 
 This repository contains a Golang application that implements a RESTful API using the Gin framework, PostgreSQL as the database, and sqlc for type-safe SQL queries.
 
