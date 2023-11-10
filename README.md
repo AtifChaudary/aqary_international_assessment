@@ -1,6 +1,6 @@
 # README.md
 
-## Golang REST API with Gin, PostgreSQL, and SQLC
+# Aqary International Group Assessment
 
 This repository contains a Golang application that implements a RESTful API using the Gin framework, PostgreSQL as the database, and sqlc for type-safe SQL queries.
 
@@ -10,9 +10,6 @@ This repository contains a Golang application that implements a RESTful API usin
 - [Setup](#setup)
 - [Gin Server](#gin-server)
 - [Database Operations](#database-operations)
-- [Question 2](#question-2)
-- [Question 3](#question-3)
-- [Question 4](#question-4)
 
 ---
 
